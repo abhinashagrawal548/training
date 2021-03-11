@@ -1,2 +1,5 @@
 
-This is first session on git.
+This is first session on git. We will cover below topics in this session,
+
+what is git?
+what is a respository?
